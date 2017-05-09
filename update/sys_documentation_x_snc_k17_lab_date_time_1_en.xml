@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="sample_text" label="Sample Text" language="en" table="x_snc_k17_lab">
+    <sys_documentation element="date_time_1" label="Date/Time" language="en" table="x_snc_k17_lab">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>sample_text</element>
+            <element>date_time_1</element>
             <help/>
             <hint/>
-            <label>Sample Text</label>
+            <label>Date/Time</label>
             <language>en</language>
             <name>x_snc_k17_lab</name>
-            <plural>Sample Texts</plural>
+            <plural>Date/Times</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-05-09 18:00:12</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
-            <sys_id>13afdbfaada232007f442f70009bbaba</sys_id>
+            <sys_created_on>2017-05-09 18:01:56</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>2c10affaada232007f442f70009bba27</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Sample Text</sys_name>
+            <sys_name>Date/Time</sys_name>
             <sys_package display_value="k17" source="x_snc_k17">1f8d5bbaada232007f442f70009bba4f</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="k17">1f8d5bbaada232007f442f70009bba4f</sys_scope>
-            <sys_update_name>sys_documentation_x_snc_k17_lab_sample_text_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_snc_k17_lab_date_time_1_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-05-09 18:00:12</sys_updated_on>
+            <sys_updated_on>2017-05-09 18:01:56</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
